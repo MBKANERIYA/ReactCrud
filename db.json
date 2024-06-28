@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "bhagat",
+      "password": 123,
+      "id": "2d36"
+    },
+    {
+      "id": "39a4",
+      "firstname": "",
+      "lastname": "",
+      "age": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "d858",
+      "firstname": "jnhbgvf",
+      "lastname": "jnhdcdccccc",
+      "age": "",
+      "email": "",
+      "password": ""
+    }
+  ]
+}
